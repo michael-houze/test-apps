@@ -350,7 +350,7 @@ MigrationBackup/
 .ionide/
 
 # User-specific stuff
-.idea/**
+**/.idea
 
 # .NET Core
 project.lock.json
