@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "Tester.Twilio": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TWILIO_ACCOUNT_SID": "",
+        "TWILIO_AUTH_TOKEN": "",
+        "TWILIO_FROM_NUMBER": ""
+      }
+    }
+  }
+}
