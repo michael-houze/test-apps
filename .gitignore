@@ -348,3 +348,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# User-specific stuff
+.idea/**
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+launchSettings.json
