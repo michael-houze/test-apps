@@ -356,4 +356,3 @@ MigrationBackup/
 project.lock.json
 project.fragment.lock.json
 artifacts/
-launchSettings.json
